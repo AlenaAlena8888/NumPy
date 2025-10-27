@@ -1,0 +1,7 @@
+SpeechRecognition
+gTTS
+pydub
+requests
+python-dotenv
+langdetect
+textblob
